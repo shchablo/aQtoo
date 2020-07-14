@@ -1,4 +1,4 @@
-![example](./etc/helloWorld.gif)
+![example](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
 
 #PROGRAM: 
 
