@@ -1,4 +1,4 @@
-![](etc/helloWorld.gif)
+![example](etc/helloWorld.gif)
 
 #PROGRAM: 
 
