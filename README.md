@@ -24,9 +24,9 @@ $  <second terminal>
 $  cd /path/to/project/aQtoo/bin
 $  ./client IOR:0100...00
 ```
+
+![helloWorld](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
+
 #### ANY QUESTIONS:
 
   shchablo@gmail.com
---------------------------------------------------------------------------------
-
-![helloWorld](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
