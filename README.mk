@@ -1,4 +1,4 @@
-![example](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
+![helloWorld](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
 
 #PROGRAM: 
 
