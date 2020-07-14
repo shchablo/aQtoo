@@ -1,5 +1,3 @@
-![helloWorld](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
-
 #PROGRAM: 
 
   armo-qt-omniorb (aQtoo): Simple example of client server app.
@@ -35,3 +33,4 @@
   shchablo@gmail.com
 --------------------------------------------------------------------------------
 
+![helloWorld](https://github.com/shchablo/aQtoo/blob/master/etc/helloWorld.gif)
