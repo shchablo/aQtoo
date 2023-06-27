@@ -1,4 +1,4 @@
-# Armo-Qt-OmniOrb (aQtoo)
+# Qt-OmniOrb (aQtoo)
  A simple example of a client-server app. This app base on eg_2 (https://github.com/liangqi/qt-omniorb) 
 
 #### SYSTEM REQUIREMENTS:
